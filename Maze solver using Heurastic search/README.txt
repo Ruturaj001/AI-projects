@@ -1,3 +1,12 @@
+It solves a maze where a die has to be moved from starting position to
+goal position with following restrictions
+
+1. Dice can not let nuber 1 be at bottom.
+
+2. Dice can not be placed at position marked by *.
+
+This code uses heuristic search and shows results for different heuristic.
+
 How to run
 1. To run program type in terminal,
    python maze.py <mazefile>
